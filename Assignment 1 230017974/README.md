@@ -38,3 +38,5 @@ Yellow taxi Parquet dataset: [https://universityofstandrews907-my.sharepoint.com
 You have access to this OneDrive and will need to download the file and copy its path into the suitable destination. 
 
 Author: 230017974
+
+NOTE: PDF basemaps aren't loading however within code work perfectly fine. 
